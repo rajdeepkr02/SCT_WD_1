@@ -1,7 +1,7 @@
-<h1>Interactive Responsive Landing page  project SCT_WD_1</h1>
+<h2>Interactive Responsive Landing page  project SCT_WD_1</h2>
 <hr>
 <div>
-  This project showcases an Interactive Respondive landing page . 
+  This project showcases an Interactive Responsive landing page . 
 <div>
   <h3><b>
   Features:-
